@@ -21,7 +21,7 @@
 
 ``` bash                                                 
 # clone the repo into your disk.
-$ git clone https://github.com/cccyb/vue-eleme-app.git
+$ git clone https://github.com/yryu/vue-sell-app.git
 
 # install dependencies
 $ npm install
