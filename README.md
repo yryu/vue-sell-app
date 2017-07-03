@@ -13,7 +13,7 @@
 - 使用[better-scroll](https://github.com/ustbhuangyi/better-scroll)进行联动滑动
 
 ## 在线预览
-[点我在线预览](http://chenyubo.me/vue-eleme-app/dist/index.html)
+[点我在线预览](https://yryu.github.io/vue-sell-app/dist/)
 
 **（PC端建议开启chrome调试模式使用更佳，移动端直接在浏览器开启即可）**
 
