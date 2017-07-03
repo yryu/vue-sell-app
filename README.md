@@ -15,7 +15,7 @@
 ## 在线预览
 [点我在线预览](http://chenyubo.me/vue-eleme-app/dist/index.html)
 
-**（PC端建议开启chrome调试模式食用更佳，移动端直接在浏览器开启即可）**
+**（PC端建议开启chrome调试模式使用更佳，移动端直接在浏览器开启即可）**
 
 ## Build Setup
 
