@@ -108,6 +108,7 @@
 
       if (response.errno === ERR_OK) {
         this.goods = response.data;
+        this.getTest();
         this.$nextTick(() => {
           this._initScroll();
           this._calculateHeight();
@@ -115,6 +116,9 @@
       }
     },
     methods: {
+      getTest() {
+        console.log('test33');
+      },
       selectMenu(index, event) {
         if (!event._constructed) {
           return;
@@ -140,6 +144,7 @@
         });
       },
       _initScroll() {
+        console.log('scroll');
         this.meunScroll = new BScroll(this.$refs.menuWrapper, {
           click: true
         });
